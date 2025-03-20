@@ -4,7 +4,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kayron Dellatorre e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação no Unilasalle. 
+Hey! Sejam bem-vindos! Me chamo Kayron e sou desenvolvedor web, apaixonado por tecnologia e soluções inovadoras. Minha trajetória começou com a graduação em Ciência da Computação, onde desenvolvi uma base sólida em programação e lógica computacional. Desde então, venho aprimorando minhas habilidades em: JavaScript, TypeScript e Node.js, sempre buscando entregar aplicações eficientes e escaláveis.
+ Acredito que posso contribuir significativamente para a equipe, trazendo minha capacidade de aprendizado rápido, resolução de problemas e adaptação a novas tecnologias. Estou entusiasmado com a oportunidade de enfrentar os desafios da vaga e ajudar a empresa a alcançar seus objetivos com soluções web de alto desempenho.
 ---
 
 ### 🤖 Linguagens e Tecnologias
