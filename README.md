@@ -125,22 +125,5 @@ Me chamo Kayron Dellatorre e sou natural do Rio Grande do Sul. Atualmente, estou
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-   
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-   
-  />
 
 </p>
