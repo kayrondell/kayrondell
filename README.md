@@ -8,6 +8,9 @@ Hey! Sejam bem-vindos! Me chamo Kayron e sou desenvolvedor web, apaixonado por t
  Acredito que posso contribuir significativamente para a equipe, trazendo minha capacidade de aprendizado rápido, resolução de problemas e adaptação a novas tecnologias. Estou entusiasmado com a oportunidade de enfrentar os desafios da vaga e ajudar a empresa a alcançar seus objetivos com soluções web de alto desempenho.
 ---
 
+Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
+
 <p align="left">
     <a href=>
         <img 
