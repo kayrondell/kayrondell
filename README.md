@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Kayron Dellatorre
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
 ---
 
