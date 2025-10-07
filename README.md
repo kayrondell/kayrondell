@@ -6,7 +6,7 @@
 
 ---
 
- Hey! Sejam bem-vindos! Me chamo Kayron e sou desenvolvedor web, apaixonado por tecnologia e soluções inovadoras. Minha trajetória começou com a graduação em Ciência da Computação, onde desenvolvi uma base sólida em programação e lógica computacional. Desde então, venho aprimorando minhas habilidades em: JavaScript, TypeScript e Node.js, sempre buscando entregar aplicações eficientes e escaláveis.
+ Hey! Welcome! My name is Kayron, and I'm a web developer with a passion for technology and innovative solutions. My journey began with a degree in Computer Science, where I developed a solid foundation in programming and computational logic. Since then, I've been honing my skills in JavaScript, TypeScript, and Node.js, always striving to deliver efficient and scalable applications.
 
 
 <p align="left">
