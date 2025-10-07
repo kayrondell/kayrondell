@@ -6,7 +6,7 @@
 
 ---
 
- Hey! Welcome! My name is Kayron, and I'm a web developer with a passion for technology and innovative solutions. My journey began with a degree in Computer Science, where I developed a solid foundation in programming and computational logic. Since then, I've been honing my skills in JavaScript, TypeScript, and Node.js, always striving to deliver efficient and scalable applications.
+ Hi, I'm Kayron, an innovative Web Developer driven by a passion for creating impactful digital experiences. My journey from a Computer Science degree to professional development has equipped me with the logical rigor to tackle complex problems. My practical experience involves building a variety of sites and scalable projects using JavaScript, TypeScript, and Node.js. I specialize in developing efficient solutions and am excited to bring my blend of academic foundation and real-world project delivery to my next role.
 
 ### 🤖 Linguagens e Tecnologias
 
