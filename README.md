@@ -1,11 +1,8 @@
-## <p align="center">👋 Hi there</p>
+<p align="center"><strong><font size="6">👋 Hi there</font></strong></p>
 
-# <p align="center">👩🏻‍💻 Kayron Dellatorre</p>
+<p align="center"><strong><font size="6">👩🏻‍💻 Kayron Dellatorre</font></strong></p>
 
-<p align="center">
-  <strong><font size="6">💻 Web Developer</font></strong>
-</p>
-
+<p align="center"><strong><font size="6">💻 Web Developer</font></strong></p>
 
 ---
 
