@@ -9,7 +9,7 @@
 <p align="center">
 Hi, I'm Kayron, an innovative Web Developer driven by a passion for creating impactful digital experiences.  
 My journey from a Computer Science degree to professional development has equipped me with the logical rigor to tackle complex problems.  
-My practical experience involves building a variety of sites and scalable projects using JavaScript, TypeScript, and Node.js.  
+My practical experience involves building a variety of sites and scalable projects using JavaScript, TypeScript, Node.js in companies such as Stone.Co, Mercado Livre and Transcend e-commerce.  
 I specialize in developing efficient solutions and am excited to bring my blend of academic foundation and real-world project delivery to my next role.
 </p>
 
